@@ -1,0 +1,12 @@
+.fotoautor{
+    border-radius: 100%;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+.principal{
+    background-color: gray;
+    height: 100pc;
+    border-radius: 20px;    
+}
